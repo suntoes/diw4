@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/suntoes/diw4/master/client/public/image.png" alt="banner" width="400"/>
 </a>
 
-Create and read site demo demonstration of mern, chakra-ui and socket.io. Layout is deeply insired from craftz.dog.
+Create and read site demo demonstration of mern, chakra-ui and socket.io. Layout is deeply inspired from craftz.dog.
 
 ## Host it locally...
 To host it locally is simple. Gather all files in a dir and have a .env ready with `MONGO_URI=""` value. Then hit up 
