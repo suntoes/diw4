@@ -14,6 +14,7 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "@types/socket.io-client": "^3.0.0",
+    "diw4": "file:..",
     "framer-motion": "^3.10.6",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",

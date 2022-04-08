@@ -1,7 +1,7 @@
 import io from "socket.io-client";
 
 //@ts-ignore
-const socket = io.connect(process.env.REACT_APP_URL);
+const socket = io.connect("https://diw4.herokuapp.com/");
 
 export const listenToSocket = (handler:Function) => {
     socket.on('updatePost', (obj: any) => {
