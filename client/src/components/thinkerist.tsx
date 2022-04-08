@@ -1,6 +1,7 @@
 // credits to craftz.dog and threejs.org/docs samples
 
 import { useState, useEffect, useRef, useCallback } from 'react'
+// @ts-ignore
 import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
 import { loadGLTFModel } from '../lib/model'
