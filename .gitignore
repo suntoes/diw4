@@ -8,9 +8,8 @@
 # testing
 /coverage
 
-# hosting at heroku (includes /build only)
-/public
-/src
+# production
+/build
 
 # misc
 .DS_Store
